@@ -1,6 +1,6 @@
-# MoveMoney.ai
+# CashBase.ai
 
-**Your money. Where it should be.**
+**Your financial base of operations.**
 
 ---
 
@@ -8,7 +8,7 @@
 
 Every personal finance app gets it wrong. They obsess over categorizing every $4.50 coffee transaction, building pie charts of your spending categories, and sending you alerts like "you spent 23% more on dining this month."
 
-Nobody asked for that. Nobody's problem is "I don't know I spent $12 at Chipotle."
+Nobody asked for that.
 
 The real problem is simple:
 
@@ -36,7 +36,7 @@ AI tells you exactly what to do: "Move $2,400 from savings → checking before F
 
 ---
 
-## What MoveMoney Is NOT
+## What CashBase Is NOT
 
 - ❌ Transaction categorization
 - ❌ Budgeting spreadsheets
